@@ -2,7 +2,7 @@
 
 ## why docker?
 
-to run linux binary in all platform like macOS (arm64)
+to run linux x86_64 binary in all platform like macOS (arm64)
 
 what u gotta do:
 
